@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bPyeaj+GKIXQK4XOt7rGRxV6QtxTLOkWhZkULnuVLGI=",
+  "Source": "PasswordManagementAPI",
+  "BasePath": "_content/PasswordManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
