@@ -1,0 +1,5 @@
+2025-02-24 09:30:04.107 -03:00 [INF] Now listening on: http://localhost:5297
+2025-02-24 09:30:04.133 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-24 09:30:04.134 -03:00 [INF] Hosting environment: Development
+2025-02-24 09:30:04.134 -03:00 [INF] Content root path: C:\Users\Corin\OneDrive\Documentos\Projetos C\PasswordManagementAPI
+2025-02-24 09:32:02.978 -03:00 [INF] Application is shutting down...
